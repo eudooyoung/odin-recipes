@@ -1,0 +1,64 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  /* background-color: aqua; */
+  margin: 0;
+  /* padding: 30px 20px; */
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  background-image: linear-gradient(to right, rgb(54, 54, 54), white);
+  color: white;
+  margin: 0;
+  padding: 30px 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul,
+ol {
+  background-image: linear-gradient(to right, rgb(248, 158, 142), white);
+  margin: 0;
+  padding: 30px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 15px;
+}
+
+a:hover {
+  /* background-color: black; */
+  color: rgb(0, 255, 85);
+}
+
+p {
+  margin: 0;
+}
+
+.description {
+  background-image: linear-gradient(to right, rgb(55, 55, 255), white);
+  color: rgb(255, 253, 219);
+  margin: 0;
+  padding: 20px 20px;
+}
+
+.home-link {
+  background-image: linear-gradient(to right, rgb(0, 131, 0), white);
+  padding: 20px 20px;
+}
+
+.image-container {
+  margin: 0 auto;
+  padding: 0;
+}
